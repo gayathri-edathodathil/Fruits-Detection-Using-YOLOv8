@@ -1,0 +1,5 @@
+path: dataset
+train: images/train
+val: images/test
+nc: 4
+names: ["apple", "banana", "mixed", "orange"]
